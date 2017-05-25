@@ -1,11 +1,11 @@
 # Android-Apps
-These are some android apk files of my apps
+These are some android apk files of my apps.
 Learn About Anagrams: https://en.wikipedia.org/wiki/Anagram
 
 ![Anagrams](Screenshot_2017-05-15-20-09-04-431_com.google.engedu.anagrams.png)
 
 
-##### Scarne's dice
+### Scarne's dice
 
 Scarne’s Dice is a turn-based dice game where players score points by rolling a die and then:
 
